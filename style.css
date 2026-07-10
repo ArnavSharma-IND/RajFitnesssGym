@@ -255,7 +255,7 @@ section {
   letter-spacing: 0.05em;
 }
 
-.nav-logo img { width: 34px; height: 34px; border-radius: 8px; }
+.nav-logo img { radius: 50% width: 34px; height: 34px; border-radius: 8px; }
 .nav-logo em { color: var(--primary); font-style: normal; }
 
 .nav-links {
